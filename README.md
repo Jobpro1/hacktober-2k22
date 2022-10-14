@@ -1,1 +1,4 @@
-# hacktober-2k22
+# HACKTOBER-2k22
+
+Welcome to this beginner friendly repository for hacktober fest.
+You can contribute your Leetcode solutions and algorithms here.
